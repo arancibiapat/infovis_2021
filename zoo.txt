@@ -1,0 +1,17 @@
+data meaningfully
+visual encodings
+graphical features
+Time-series data
+Time-varying phenomena
+index chart 
+Stacked Graphs
+box-and-whisker plot
+Stem-and-Leaf Plots
+SPLOM (Scatter Plot Matrix)
+brushing-and-linking—
+Flow Maps
+choropleth map
+Node-link Diagrams
+Adjacency Diagrams
+Enclosure Diagrams
+Arc Diagrams
